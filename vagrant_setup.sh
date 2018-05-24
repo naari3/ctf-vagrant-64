@@ -32,7 +32,7 @@ rm /etc/apt/sources.list.d/emdebian.list
 
 # Install Binjitsu
 sudo apt-get -y install python2.7 python-pip python-dev git
-sudo pip install --upgrade git+https://github.com/binjitsu/binjitsu.git
+sudo pip install --upgrade git+https://github.com/Gallopsled/pwntools.git
 
 cd
 mkdir tools
