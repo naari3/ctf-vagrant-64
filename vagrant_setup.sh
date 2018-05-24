@@ -9,6 +9,7 @@ sudo apt-get -y install tmux
 sudo apt-get -y install gdb gdb-multiarch
 sudo apt-get -y install unzip
 sudo apt-get -y install foremost
+sudo apt-get -y install git
 
 # QEMU with MIPS/ARM - http://reverseengineering.stackexchange.com/questions/8829/cross-debugging-for-mips-elf-with-qemu-toolchain
 sudo apt-get -y install qemu qemu-user qemu-user-static
